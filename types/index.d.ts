@@ -1,0 +1,1 @@
+export function toJSON(value: any): any
