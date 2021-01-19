@@ -19,8 +19,7 @@
     "build": "rollup -c",
     "build:watch": "rollup -c -w",
     "test": "jest --verbose",
-    "test:watch": "jest --watchAll",
-    "preinstall": "npx only-allow pnpm"
+    "test:watch": "jest --watchAll"
   },
   "author": "Simon Green <simon@captaincodeman.com> (https://github.com/captaincodeman)",
   "homepage": "https://github.com/captaincodeman/firestore-json",
